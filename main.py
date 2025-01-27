@@ -32,7 +32,5 @@ while True:
     if a == 7:
         print("Good bay!")
         break
-
-
 print(f"Min {min_num}, Max {max_num}, Suma {suma}")
 
